@@ -72,3 +72,7 @@ CONCLUSION :
 
 In summary, this project successfully demonstrates how to build and train a convolutional neural network for image classification using the MNIST dataset. The CNN is designed to extract spatial features from 28x28 grayscale images and classify them into one of ten digit classes. The model achieves high performance after only five epochs of training, thanks to its efficient architecture and optimized training strategy.
 The implementation uses modern tools such as TensorFlow and Keras, making it accessible to both beginners and advanced users. Despite its simplicity, this project exemplifies core deep learning principles, including feature extraction, nonlinear activation, pooling, and softmax classification. The same principles are used in more advanced domains such as medical diagnostics, autonomous navigation, and industrial automation. Thus, mastering this basic image classification task lays the foundation for tackling real-world visual recognition challenges.
+
+OUTPUT :
+
+<img width="1102" height="252" alt="Image" src="https://github.com/user-attachments/assets/12683f8f-58f9-44bf-8a81-90b57793cb6c" />
