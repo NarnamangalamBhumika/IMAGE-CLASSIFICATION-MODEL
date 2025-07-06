@@ -48,6 +48,10 @@ Visualization is a critical part of understanding and evaluating a machine learn
 •	Confusion Matrix: A matrix comparing actual vs. predicted labels shows where the model is most and least accurate.
 Such visual tools enhance interpretability and can reveal where the model needs improvement.
 
+DATASET USED :
+
+The code uses the MNIST dataset, which consists of 70,000 grayscale images of handwritten digits (0–9), each of size 28×28 pixels. It includes 60,000 training images and 10,000 test images, and is commonly used for image classification and deep learning tasks.
+
 PLATFORMS USED :
 
 This model is suitable for a variety of platforms:
